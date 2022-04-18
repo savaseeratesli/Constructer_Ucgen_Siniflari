@@ -1,0 +1,3 @@
+﻿  ucgen_sinifi.cpp
+D:\opp_projeler\ucgen_sinifi\Triangle.h(157,35): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ucgen_sinifi.vcxproj -> D:\opp_projeler\ucgen_sinifi\Debug\ucgen_sinifi.exe
